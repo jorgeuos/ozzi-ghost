@@ -1,0 +1,10 @@
+
+
+ghost_content/*
+!ghost_content
+!ghost_content/.gitkeep
+
+ghost_mysql/*
+!ghost_mysql
+!ghost_mysql/.gitkeep
+
